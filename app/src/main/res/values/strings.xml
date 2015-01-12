@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Couple Motivate</string>
+    <string name="soonest_task">Soonest task</string>
+    <string name="title">Title</string>
+    <string name="add_group">Add Group</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_tasks">TasksActivity</string>
+
+    <string name="description">Description</string>
+    <string name="add_task">Add Task</string>
+    <string name="set_due_time">Set Due Time</string>
+    <string name="ok">OK</string>
+    <string name="empty">Empty</string>
+
+</resources>
